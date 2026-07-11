@@ -1,6 +1,8 @@
 
 ## Summary 
 
+***Note*** - *My Agentic network location is under registries/generated/jira_tickets_router.hocon*
+
 ### Problem Statement
 
 In many organizations, L1/L1.5 support teams spend considerable time manually reading Jira tickets and assigning them to the appropriate support teams. This repetitive process increases response time and can lead to incorrect ticket assignments.
@@ -25,4 +27,4 @@ The objective of this project is to automate Jira ticket triaging using an Agent
 * Confidence scoring for ticket classification.
 * Support for additional enterprise domains such as DevOps, Cloud, Networking, Security, and Database Administration.
 
-*** Note - My Agentic network location is under registries/generated/jira_tickets_router.hocon ***
+
