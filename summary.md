@@ -1,6 +1,5 @@
 
 ## Summary 
-*** Note - My Agentic network location is under registries/generated/jira_tickets_router.hocon ***
 
 ### Problem Statement
 
