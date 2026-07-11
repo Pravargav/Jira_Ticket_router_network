@@ -1,6 +1,8 @@
 
 ## Architecture
 
+***Note*** - *My Agentic network location is under registries/generated/jira_tickets_router.hocon*
+
 ### Overview
 
 This project uses a hierarchical Agentic AI architecture to classify and route Jira tickets. A Supervisor Agent acts as the entry point and delegates tickets to the appropriate team. If the selected team contains sub-teams, the request is further routed to the most relevant sub-team agent, which generates the final response.
