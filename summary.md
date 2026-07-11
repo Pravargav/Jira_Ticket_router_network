@@ -1,5 +1,6 @@
 
-## Summary
+## Summary 
+*** Note - My Agentic network location is under registries/generated/jira_tickets_router.hocon ***
 
 ### Problem Statement
 
@@ -24,3 +25,5 @@ The objective of this project is to automate Jira ticket triaging using an Agent
 * Retrieval-Augmented Generation (RAG) using historical tickets and knowledge bases.
 * Confidence scoring for ticket classification.
 * Support for additional enterprise domains such as DevOps, Cloud, Networking, Security, and Database Administration.
+
+*** Note - My Agentic network location is under registries/generated/jira_tickets_router.hocon ***
