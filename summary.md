@@ -1,4 +1,4 @@
-https://1drv.ms/v/c/f644dcdfe322d0c6/IQCDQi6N732WQJfYdL_RUdwYAZ7apSjgwT0BapAc6CBdWQA?e=9yukDt
+(https://drive.google.com/file/d/1XXdgtuMS8jUxqeut5uxBBGoS1ZYk5PUo/view?usp=sharing)
 ## Summary 
 
 ***Note*** - *My Agentic network location is under registries/generated/jira_tickets_router.hocon*
